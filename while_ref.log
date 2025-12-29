@@ -1,0 +1,22 @@
+Trace line 1: i = 1
+Trace line 2: while True: ...
+Trace line 3: Call function print with params [1]
+Trace line 3: Expression statement produced None
+Trace line 4: i = 2
+Trace line 2: while True: ...
+Trace line 3: Call function print with params [2]
+Trace line 3: Expression statement produced None
+Trace line 4: i = 3
+Trace line 2: while True: ...
+Trace line 3: Call function print with params [3]
+Trace line 3: Expression statement produced None
+Trace line 4: i = 4
+Trace line 2: while True: ...
+Trace line 3: Call function print with params [4]
+Trace line 3: Expression statement produced None
+Trace line 4: i = 5
+Trace line 2: while True: ...
+Trace line 3: Call function print with params [5]
+Trace line 3: Expression statement produced None
+Trace line 4: i = 6
+Trace line 2: while False:

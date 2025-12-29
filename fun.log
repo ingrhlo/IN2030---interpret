@@ -1,0 +1,7 @@
+Trace line 1: v = 7
+Trace line 2: def f
+Trace line 7: Call function f with params [10]
+Trace line 4: a = 1
+Trace line 5: return 18
+Trace line 7: Call function print with params ['f(10) ==>', 18]
+Trace line 7: Expression statement produced None

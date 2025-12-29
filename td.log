@@ -1,0 +1,29 @@
+Trace line 1: dict = {'kaffe': 20, 'kake': 30, 'brus': 10 }
+Trace line 3: dict = {'kaffe': 20, 'kake': 30, 'brus': 10 }
+Trace line 3: assignment False
+Trace line 4: Call function print with params [{40: 40, 'kaffe': 20, 'kake': 30, 'brus': 10 }]
+Trace line 4: Expression statemt produced None
+Trace line 5: dict = {40: 40, 'kaffe': 20, 'kake': 30, 'brus': 10 }
+Trace line 5: assignment False
+Trace line 6: Call function print with params [{10: 10, 40: 40, 'kaffe': 20, 'kake': 30, 'brus': 10 }]
+Trace line 6: Expression statemt produced None
+=======
+<<<<<<< HEAD
+Trace line 1: dict = {'kaffe': 20, 'kake': 30, 'brus': 10 }
+Trace line 2: Call function print with params [{'kaffe': 20, 'kake': 30, 'brus': 10 }]
+Trace line 2: Expression statemt produced None
+Trace line 3: dict[bolle] = 10
+Trace line 4: Call function print with params [{'bolle': 10, 'kaffe': 20, 'kake': 30, 'brus': 10 }]
+Trace line 4: Expression statemt produced None
+Trace line 5: dict[brus] = 33
+Trace line 6: Call function print with params [{'bolle': 10, 'kaffe': 20, 'kake': 30, 'brus': 33 }]
+Trace line 6: Expression statemt produced None
+<<<<<<< HEAD
+=======
+=======
+Trace line 1: dict = {'kaffe': 20, 'kake': 30 }
+Trace line 2: dict = 40
+Asp runtime error on line 2: Assigning to an element not allowed for Int!
+>>>>>>> 1fb606748bb00dcbb8c1ce48906e5a44b05f57aa
+>>>>>>> d088f82f3a006fac020aa71065c9327c7e22fdbd
+>>>>>>> ecad488378f8c9bbcd5ce92fd2751b4d142b32fc

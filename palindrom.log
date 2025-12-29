@@ -1,0 +1,27 @@
+Trace line 5: def is_a_palindrome
+Trace line 12: Call function input with params ['A word: ']
+<<<<<<< HEAD
+Trace line 12: query = 'wow'
+Trace line 13: Call function is_a_palindrome with params ['wow']
+Trace line 6: i1 = 0
+Trace line 6: Call function len with params ['wow']
+Trace line 6: i2 = 2
+Trace line 7: while True: ...
+Trace line 9: i1 = 1
+Trace line 9: i2 = 1
+Trace line 7: while False: ...
+Trace line 10: return True
+Trace line 13: Call function print with params ['"wow":', True]
+Trace line 13: Expression statemt produced None
+=======
+Trace line 12: query = 'ab'
+Trace line 13: Call function is_a_palindrome with params ['ab']
+Trace line 6: i1 = 0
+Trace line 6: Call function len with params ['ab']
+Trace line 6: i2 = 1
+Trace line 7: while True: ...
+Trace line 8: if True alt #1: ...
+Trace line 8: return False
+Trace line 13: Call function print with params ['"ab":', False]
+Trace line 13: Expression statement produced None
+>>>>>>> ecad488378f8c9bbcd5ce92fd2751b4d142b32fc

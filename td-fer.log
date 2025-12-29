@@ -1,0 +1,9 @@
+Trace line 1: dict = {'brus': 10, 'kake': 30, 'kaffe': 20}
+Trace line 2: Call function print with params [{'brus': 10, 'kake': 30, 'kaffe': 20}]
+Trace line 2: Expression statement produced None
+Trace line 3: dict['bolle'] = 10
+Trace line 4: Call function print with params [{'brus': 10, 'bolle': 10, 'kake': 30, 'kaffe': 20}]
+Trace line 4: Expression statement produced None
+Trace line 5: dict['brus'] = 33
+Trace line 6: Call function print with params [{'brus': 33, 'bolle': 10, 'kake': 30, 'kaffe': 20}]
+Trace line 6: Expression statement produced None

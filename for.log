@@ -1,0 +1,9 @@
+Trace line 1: n = 0
+Trace line 5: fruits = ['apple', 'banana', 'cherry']
+Trace line 6: for #apple
+Trace line 7: n = 1
+Trace line 6: for #banana
+Trace line 7: n = 2
+Trace line 6: for #cherry
+Trace line 7: n = 3
+Trace line 6: while False: ...

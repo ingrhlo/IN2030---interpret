@@ -1,0 +1,9 @@
+Trace line 1: expr
+Trace line 1: expr stmt
+Trace line 1: smallstmt
+Trace line 2: expr
+Trace line 2: name
+Trace line 2: expr
+Trace line 2: assignment
+Trace line 2: smallstmt
+Trace line 0: program

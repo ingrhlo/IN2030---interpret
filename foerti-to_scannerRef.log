@@ -1,0 +1,7 @@
+   1: 42
+Scanner: integer literal token on line 1: 42
+Scanner: NEWLINE token on line 1
+   2: 42.0
+Scanner: float literal token on line 2: 42.0
+Scanner: NEWLINE token on line 2
+Scanner: E-o-f token

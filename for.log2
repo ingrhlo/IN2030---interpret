@@ -1,0 +1,6 @@
+Trace line 1: n = 0
+Trace line 4: fruits = [1, 2]
+Trace line 6: for #1: x = 1
+Trace line 7: Expression statement produced 1
+Trace line 6: for #2: x = 2
+Trace line 7: Expression statement produced 1

@@ -1,0 +1,28 @@
+   1: i = 1
+Scanner: name token on line 1: i
+Scanner: = token on line 1
+Scanner: integer literal token on line 1: 1
+Scanner: NEWLINE token on line 1
+   2: pass 
+Scanner: pass token on line 2
+Scanner: NEWLINE token on line 2
+   3: while i < 4
+Scanner: while token on line 3
+Scanner: name token on line 3: i
+Scanner: < token on line 3
+Scanner: integer literal token on line 3: 4
+Scanner: NEWLINE token on line 3
+   4:     print(i)
+Scanner: INDENT token on line 4
+Scanner: name token on line 4: print
+Scanner: ( token on line 4
+Scanner: name token on line 4: i
+Scanner: ) token on line 4
+Scanner: NEWLINE token on line 4
+   5:     i++
+Scanner: name token on line 5: i
+Scanner: + token on line 5
+Scanner: + token on line 5
+Scanner: NEWLINE token on line 5
+Scanner: DEDENT token
+Scanner: E-o-f token

@@ -1,0 +1,4 @@
+Trace line 1: i = 2
+Trace line 2: if True alt #1: ...
+Trace line 3: Call function print with params [2]
+Trace line 3: Expression statement produced None

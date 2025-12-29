@@ -1,0 +1,5 @@
+Trace line 2: a = ['eple', 'banan', 'pere']
+Trace line 3: a = ['eple', 'banan', 'pere']
+Trace line 3: assignment False
+Trace line 4: Call function print with params ['banan']
+Trace line 4: Expression statemt produced None
